@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
+# Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
@@ -58,3 +58,1429 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Assets/Polaris - Low Poly Ecosystem.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/changelog.txt
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/changelog.txt.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpInstaller.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpInstaller.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpResources.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpResources.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpSupportExtension.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/BuiltinRP Support/GGriffinBrpSupportExtension.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/CreateExtensionWizardPlaceholder.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/CreateExtensionWizardPlaceholder.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/LightweightRPSupportPlaceholder.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/LightweightRPSupportPlaceholder.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/MeshToFilePlaceholder.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/MeshToFilePlaceholder.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/PoseidonPlaceholder.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/PoseidonPlaceholder.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/UniversalRPSupportPlaceholder.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/ExtensionPlaceholders/UniversalRPSupportPlaceholder.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/MicroSplat Integration.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/MicroSplat Integration/GMicroSplatIntegrationExtension.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/MicroSplat Integration/GMicroSplatIntegrationExtension.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/MicroSplat Integration/GMicroSplatIntegrationSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Extensions/MicroSplat Integration/GMicroSplatIntegrationSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/GriffinBackupData.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/GriffinBackupData.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/GriffinBrpResources.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/GriffinBrpResources.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/HelpDatabase.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/HelpDatabase.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/MicroSplatIntegrationSettings.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/MicroSplatIntegrationSettings.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/PolarisSkin.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/PolarisSkin.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/UndoCompatibleBuffer.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Resources/UndoCompatibleBuffer.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BackupTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BackupTool/GBackupDataInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BackupTool/GBackupDataInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BackupTool/GBackupEditor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BackupTool/GBackupEditor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BillboardTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BillboardTool/GBillboardEditor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/BillboardTool/GBillboardEditor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GCompileLogger.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GCompileLogger.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GEditorCommon.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GEditorCommon.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GEditorMenus.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GEditorMenus.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GGuiEventUtilities.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GGuiEventUtilities.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GHandleUtility.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GHandleUtility.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GHeightMapFilterInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GHeightMapFilterInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GInteractiveGrassAgentInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GInteractiveGrassAgentInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GPackageInitializer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GPackageInitializer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GPolarisAdsDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GPolarisAdsDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GSelectionGridPreviews.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GSelectionGridPreviews.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GSplatPreviewTextures.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GSplatPreviewTextures.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GStylizedTerrainInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GStylizedTerrainInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTerrainChunkInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTerrainChunkInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTreeColliderInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTreeColliderInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTwoPaneWindowWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Core/GTwoPaneWindowWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GPolarisV1DataImporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GPolarisV1DataImporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GRawExporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GRawExporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GRawImporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GRawImporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GTextureExporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GTextureExporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GTextureImporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GTextureImporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainDataExporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainDataExporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainDataImporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainDataImporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainGroupConverterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/DataTool/GUnityTerrainGroupConverterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionInfo.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionInfo.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionManager.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionManager.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/ExtensionSystem/GExtensionWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/GroupTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/GroupTool/GTerrainGroupInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/GroupTool/GTerrainGroupInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GCategory.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GCategory.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpComponentInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpComponentInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpDatabase.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpDatabase.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpDatabaseInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpDatabaseInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpEditor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpEditor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpEntry.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpEntry.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpLink.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpLink.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpToolDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/HelpTool/GHelpToolDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GFoliagePainterInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GFoliagePainterInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GObjectPainterInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GObjectPainterInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GTerrainTexturePainterInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/PaintTool/GTerrainTexturePainterInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GFoliageRemoverInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GFoliageRemoverInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GFoliageSpawnerInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GFoliageSpawnerInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GObjectRemoverInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GObjectRemoverInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GObjectSpawnerInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GObjectSpawnerInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GPathPainterInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GPathPainterInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GRampMakerInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GRampMakerInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineAnchorInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineAnchorInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineCreatorInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineCreatorInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineModifierInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineModifierInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineSegmentInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/SplineTool/GSplineSegmentInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GFoliageStamperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GFoliageStamperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GGeometryStamperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GGeometryStamperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GObjectStamperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GObjectStamperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GTextureStamperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/StampTool/GTextureStamperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GGrassPrototypeGroupInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GGrassPrototypeGroupInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GGrassPrototypeGroupInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GGrassPrototypeGroupInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GPrefabPrototypeGroupInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GPrefabPrototypeGroupInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GPrefabPrototypeGroupInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GPrefabPrototypeGroupInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GSplatPrototypeGroupInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GSplatPrototypeGroupInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GSplatPrototypeGroupInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GSplatPrototypeGroupInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainDataInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainDataInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainDataInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainDataInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainGeneratedDataInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTerrainGeneratedDataInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTreePrototypeGroupInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTreePrototypeGroupInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTreePrototypeGroupInspectorDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TerrainData/GTreePrototypeGroupInspectorDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TextureTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TextureTool/GTextureEditorWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/TextureTool/GTextureEditorWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GAssetExplorerInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GAssetExplorerInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GEditorSkin.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GEditorSkin.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGenericMenuItem.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGenericMenuItem.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGrassMeshGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGrassMeshGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGridlineMeshCreatorWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GGridlineMeshCreatorWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GNavigationHelperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GNavigationHelperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GObjectComparer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GObjectComparer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GObjectHelperInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GObjectHelperInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GShaderParser.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GShaderParser.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTerrainDataDragAndDrop.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTerrainDataDragAndDrop.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTerrainWizardWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTerrainWizardWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTextAssetInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GTextAssetInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GUvLayoutExporterWindow.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GUvLayoutExporterWindow.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GWindZoneInspector.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GWindZoneInspector.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GWizardMaterialTemplatePropertyDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Scripts/Utilities/GWizardMaterialTemplatePropertyDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GGetWorldToNormalizedMatrixNode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GGetWorldToNormalizedMatrixNode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GrassTouchBending.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GrassTouchBending.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GrassWindAnimation.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/GrassWindAnimation.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats4Normals.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats4Normals.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats4NormalsPBR.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4Splats4NormalsPBR.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4SplatsPBR.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Shaders/Sample4SplatsPBR.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/CSharpWizardIcon.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/CSharpWizardIcon.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/GeneratedDataIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/GeneratedDataIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/GrassPrototypeGroupIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/GrassPrototypeGroupIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/IconBlack.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/IconBlack.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/IconWhite.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/IconWhite.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/JupiterIcon.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/JupiterIcon.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/MeshToFileIcon.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/MeshToFileIcon.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PolarisIcon.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PolarisIcon.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PoseidonIcon.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PoseidonIcon.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PrefabPrototypeGroupIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/PrefabPrototypeGroupIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/SettingsIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/SettingsIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/SplatPrototypeGroupIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/SplatPrototypeGroupIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TerrainDataIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TerrainDataIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TextureArrayIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TextureArrayIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TreePrototypeGroupIcon.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Editor/Textures/TreePrototypeGroupIcon.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Polaris - Scripting API.pdf
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Polaris - Scripting API.pdf.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Polaris - User Guide.pdf
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Polaris - User Guide.pdf.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_Grass.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_Grass.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_GrassInteractive.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_GrassInteractive.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_TreeBillboard.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Foliage/Builtin_TreeBillboard.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_4Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_4Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_4Splats4Normals.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_4Splats4Normals.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_8Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_8Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_ColorMap.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_ColorMap.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_GradientLookup.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_GradientLookup.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_VertexColor.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_BlinnPhong_VertexColor.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_4Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_4Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_4Splats4Normals.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_4Splats4Normals.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_8Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_8Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_ColorMap.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_ColorMap.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_GradientLookup.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_GradientLookup.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_VertexColor.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_Lambert_VertexColor.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_4Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_4Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_4Splats4Normals.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_4Splats4Normals.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_8Splats.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_8Splats.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_ColorMap.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_ColorMap.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_GradientLookup.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_GradientLookup.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_VertexColor.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Terrain/Builtin_PBR_VertexColor.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/BillboardCreatorAtlas.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/BillboardCreatorAtlas.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/BillboardCreatorNormal.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/BillboardCreatorNormal.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/GrassPreviewMaterial.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Materials/Tool/GrassPreviewMaterial.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/GrassMeshes.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/GrassMeshes.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid0.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid0.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid1.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid1.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid10.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid10.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid11.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid11.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid12.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid12.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid13.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid13.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid2.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid2.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid3.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid3.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid4.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid4.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid5.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid5.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid6.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid6.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid7.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid7.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid8.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid8.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid9.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/Grid9.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/GridLineMeshes.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Models/GridLineMeshes.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise02.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise02.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise03.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinNoise03.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape02.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape02.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape03.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinShape03.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth02.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth02.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth03.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/BuiltinSmooth03.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/SampleBrush0.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/SampleBrush0.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/SharpCircle.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/SharpCircle.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/WhiteSquare.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/Brushes/WhiteSquare.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/GriffinSettings.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/GriffinSettings.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/TexturePainterCustomParams.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/TexturePainterCustomParams.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/TextureToolParams.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Resources/TextureToolParams.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupData.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupData.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupFile.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupFile.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupToolSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GBackupToolSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GCompressor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GCompressor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GHistoryBuffer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GHistoryBuffer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GHistoryEntry.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GHistoryEntry.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GUndoCompatibleBuffer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/GUndoCompatibleBuffer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/LzfLibrary.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/LzfLibrary/Link.txt
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/LzfLibrary/Link.txt.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/LzfLibrary/LZF.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BackupTool/LzfLibrary/LZF.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardCreator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardCreator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardCreatorArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardCreatorArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardRenderMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardRenderMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardToolSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/BillboardTool/GBillboardToolSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GCommon.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GCommon.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GCommonGUI.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GCommonGUI.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GFoliageRenderer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GFoliageRenderer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GGeometryGenerationContext.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GGeometryGenerationContext.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GGriffinSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GGriffinSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GHeightMapFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GHeightMapFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GInteractiveGrassAgent.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GInteractiveGrassAgent.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GJob.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GJob.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GJobSystem.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GJobSystem.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSelectionGridArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSelectionGridArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSpawner.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSpawner.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GStylizedTerrain.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GStylizedTerrain.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSubDivisionTree.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GSubDivisionTree.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTerrainChunk.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTerrainChunk.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTerrainChunkLOD.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTerrainChunkLOD.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTicker.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTicker.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTreeCollider.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/GTreeCollider.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GAlbedoToSharpVertexColorPolygonProcessor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GAlbedoToSharpVertexColorPolygonProcessor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GAlbedoToVertexColorPolygonProcessor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GAlbedoToVertexColorPolygonProcessor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GMidpointSplitPolygonProcessor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GMidpointSplitPolygonProcessor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GPolygon.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/GPolygon.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/IGPolygonProcessor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Core/PolygonProcessors/IGPolygonProcessor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GBitDepth.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GBitDepth.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GPolarisV1DataImporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GPolarisV1DataImporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GRawExporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GRawExporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GRawImporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GRawImporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GTextureExporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GTextureExporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GTextureImporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GTextureImporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainDataExporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainDataExporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainDataImporter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainDataImporter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainGroupConverter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/DataTool/GUnityTerrainGroupConverter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GFoliageOverride.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GFoliageOverride.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GGeometryOverride.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GGeometryOverride.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GRenderingOverride.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GRenderingOverride.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GShadingOverride.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GShadingOverride.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GTerrainGroup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/GroupTool/GTerrainGroup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/HelpTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/HelpTool/GHelpComponent.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/HelpTool/GHelpComponent.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPainterActionType.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPainterActionType.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPainterMouseEventType.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPainterMouseEventType.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPaintToolSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/Common/GPaintToolSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePainterArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePainterArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePaintingMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GFoliagePaintingMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GGrassPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GGrassPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GGrassScaler.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GGrassScaler.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GTreePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GTreePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GTreeScaler.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/GTreeScaler.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/IGFoliagePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/FoliagePainters/IGFoliagePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GAlbedoPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GAlbedoPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GElevationPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GElevationPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GHeightSamplingPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GHeightSamplingPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GMetallicPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GMetallicPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GNoisePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GNoisePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GNoisePainterParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GNoisePainterParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GRemapPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GRemapPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GRemapPainterParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GRemapPainterParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSmoothnessPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSmoothnessPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSplatPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSplatPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSubDivPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GSubDivPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerracePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerracePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerracePainterParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerracePainterParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerrainTexturePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTerrainTexturePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePainterArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePainterArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePainterCustomParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePainterCustomParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePaintingMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTexturePaintingMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTriangleAlbedoPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTriangleAlbedoPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTriangleMetallicSmoothnessPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GTriangleMetallicSmoothnessPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GVisibilityPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/GVisibilityPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainterWithCustomParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainterWithCustomParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainterWithLivePreview.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/GeometryTexturePainters/IGTexturePainterWithLivePreview.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPainterArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPainterArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPaintingMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectPaintingMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectScaler.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectScaler.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectSpawner.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/GObjectSpawner.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/IGObjectPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/ObjectPainters/IGObjectPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GAlignToSurfaceFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GAlignToSurfaceFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GDistanceConstraintFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GDistanceConstraintFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GHeightConstraintFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GHeightConstraintFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GRotationRandomizeFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GRotationRandomizeFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GScaleClampFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GScaleClampFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GScaleRandomizeFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GScaleRandomizeFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSlopeConstraintFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSlopeConstraintFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSpawnFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSpawnFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSpawnFilterArgs.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/PaintTool/SpawnFilters/GSpawnFilterArgs.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GFoliageRemover.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GFoliageRemover.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GFoliageSpawner.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GFoliageSpawner.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GObjectRemover.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GObjectRemover.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GObjectSpawner.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GObjectSpawner.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GPathPainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GPathPainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GRampMaker.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GRampMaker.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSpline.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSpline.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineAnchor.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineAnchor.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineCreator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineCreator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineModifier.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineModifier.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineSegment.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineSegment.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineToolSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/SplineTool/GSplineToolSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GConditionalStampLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GConditionalStampLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GFoliageStamper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GFoliageStamper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GFoliageStampLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GFoliageStampLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GGeometryStamper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GGeometryStamper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GObjectStamper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GObjectStamper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GObjectStampLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GObjectStampLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampLayerMaskRenderer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampLayerMaskRenderer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampOperation.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampOperation.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampToolSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GStampToolSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStampChannel.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStampChannel.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStamper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStamper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStampLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/StampTool/GTextureStampLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GFoliage.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GFoliage.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GFoliageDefault.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GFoliageDefault.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometry.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometry.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometryChannel.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometryChannel.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometryDefault.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGeometryDefault.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassInstance.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassInstance.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPatch.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPatch.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPrototype.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPrototype.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPrototypeGroup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassPrototypeGroup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassShape.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GGrassShape.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GPolygonDistributionMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GPolygonDistributionMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GPrefabPrototypeGroup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GPrefabPrototypeGroup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GRendering.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GRendering.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GRenderingDefault.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GRenderingDefault.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShading.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShading.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShadingDefault.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShadingDefault.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShadingSystem.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GShadingSystem.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GSplatPrototype.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GSplatPrototype.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GSplatPrototypeGroup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GSplatPrototypeGroup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainData.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainData.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainDataDefault.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainDataDefault.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainGeneratedData.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainGeneratedData.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainResourceFlag.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTerrainResourceFlag.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreeColliderInfo.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreeColliderInfo.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreeInstance.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreeInstance.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreePrototype.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreePrototype.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreePrototypeGroup.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TerrainData/GTreePrototypeGroup.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GGeneralParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GGeneralParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GImageFileExtension.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GImageFileExtension.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GLivePreviewMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GLivePreviewMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GLivePreviewParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GLivePreviewParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GTextureToolParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Common/GTextureToolParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GBlurFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GBlurFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GBlurParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GBlurParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GCurveFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GCurveFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GCurveParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GCurveParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GHydraulicErosionFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GHydraulicErosionFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GHydraulicErosionParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GHydraulicErosionParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GInvertFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GInvertFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GInvertParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GInvertParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GStepFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GStepFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GStepParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GStepParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterType.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GTextureFilterType.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GWarpFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GWarpFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GWarpParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/GWarpParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/IGTextureFilter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Filters/IGTextureFilter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendDataSource.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendDataSource.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendLayer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendLayer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendOperation.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GBlendOperation.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GColorMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GColorMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GColorMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GColorMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GFoliageDistributionMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GFoliageDistributionMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GFoliageDistributionMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GFoliageDistributionMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapFromMeshGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapFromMeshGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapFromMeshGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapFromMeshGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GHeightMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseType.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNoiseType.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapSpace.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GNormalMapSpace.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GSteepnessMapGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GSteepnessMapGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GSteepnessMapGeneratorParams.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GSteepnessMapGeneratorParams.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GTextureGenerationMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/GTextureGenerationMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/IGTextureGenerator.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/TextureTool/Generators/IGTextureGenerator.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GAnalytics.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GAnalytics.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GAssetExplorer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GAssetExplorer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCombineInfo.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCombineInfo.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCombiner.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCombiner.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCreateTerrainWizardSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GCreateTerrainWizardSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GDebug.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GDebug.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GDisplayNameAttribute.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GDisplayNameAttribute.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GGrassUtilities.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GGrassUtilities.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GInternalMaterials.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GInternalMaterials.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GInternalShaderSettings.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GInternalShaderSettings.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GLightingModel.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GLightingModel.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GLivePreviewDrawer.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GLivePreviewDrawer.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GNavigationHelper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GNavigationHelper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GObjectHelper.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GObjectHelper.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GProgressCancelledException.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GProgressCancelledException.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GRendererResourceManager.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GRendererResourceManager.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GRenderPipelineType.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GRenderPipelineType.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GSnapMode.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GSnapMode.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GSplatsModel.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GSplatsModel.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTerrainTools.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTerrainTools.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTextAsset.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTextAsset.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTexturingModel.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GTexturingModel.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GUtilities.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GUtilities.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GVersionInfo.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GVersionInfo.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GWindZone.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GWindZone.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GWizardMaterialTemplate.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Scripts/Utilities/GWizardMaterialTemplate.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Demo.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Demo/Water.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Demo/Water.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/BuiltinRP_Grass.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/BuiltinRP_Grass.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/BuiltinRP_GrassInteractive.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/BuiltinRP_GrassInteractive.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/GriffinBillboardCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/GriffinBillboardCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/TreeBillboard_NoASESupport.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Foliage/TreeBillboard_NoASESupport.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_4Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_4Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_4Splats4Normals.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_4Splats4Normals.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_8Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_8Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_ColorMap.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_ColorMap.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_GradientLookup.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_GradientLookup.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_VertexColor.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_BlinnPhong_VertexColor.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_4Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_4Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_4Splats4Normals.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_4Splats4Normals.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_8Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_8Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_ColorMap.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_ColorMap.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_GradientLookup.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_GradientLookup.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_VertexColor.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_Lambert_VertexColor.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_4Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_4Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_4Splats4Normals.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_4Splats4Normals.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_8Splats.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_8Splats.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_ColorMap.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_ColorMap.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_GradientLookup.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_GradientLookup.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_VertexColor.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/BuiltinRP/Terrain/BuiltinRP_PBR_VertexColor.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinCG.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinCG.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinGrassCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinGrassCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinSplatCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/CGIncludes/GriffinSplatCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/BillboardTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/BillboardTool/BillboardCreatorAtlas.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/BillboardTool/BillboardCreatorAtlas.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/BillboardTool/BillboardCreatorNormal.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/BillboardTool/BillboardCreatorNormal.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/GeometryLivePreview.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/GeometryLivePreview.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/GrassPreview.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/GrassPreview.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/LivePreviewCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/LivePreviewCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/MaskVisualizer.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/MaskVisualizer.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/SubdivLivePreview2.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/SubdivLivePreview2.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/VisibilityLivePreview2.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/VisibilityLivePreview2.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/Wireframe.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/LivePreview/Wireframe.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/AlbedoPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/AlbedoPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/ElevationPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/ElevationPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/HeightSamplingPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/HeightSamplingPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/MetallicPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/MetallicPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/NoisePainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/NoisePainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PainterCursor.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PainterCursor.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PainterCursorProjector.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PainterCursorProjector.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PaintToolCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/PaintToolCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/RemapPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/RemapPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SmoothnessPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SmoothnessPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SplatPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SplatPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SubDivPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/SubDivPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/TerracePainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/TerracePainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/VisibilityPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/PaintTool/VisibilityPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/FoliageRemover.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/FoliageRemover.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/PathPainter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/PathPainter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/RampMaker.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/RampMaker.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/SplineToolCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/SplineTool/SplineToolCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/Stamper.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/Stamper.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/StampToolCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/StampToolCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/TextureStamperMask.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/StampTool/TextureStamperMask.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/BlendMapGenerator.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/BlendMapGenerator.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/Blur.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/Blur.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/BlurRadius.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/BlurRadius.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/CurveFilter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/CurveFilter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/DistributionMapGenerator.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/DistributionMapGenerator.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/HeightMapFromMesh.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/HeightMapFromMesh.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/HydraulicErosionFilter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/HydraulicErosionFilter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/InvertFilter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/InvertFilter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/NoiseMapGenerator.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/NoiseMapGenerator.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/SplatsToAlbedo.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/SplatsToAlbedo.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/SteepnessMapGenerator.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/SteepnessMapGenerator.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/StepFilter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/StepFilter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TerrainNormalMapRenderer.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TerrainNormalMapRenderer.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TerrainPerPixelNormalMapRenderer.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TerrainPerPixelNormalMapRenderer.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TextureToolCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/TextureToolCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/WarpFilter.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/TextureTool/WarpFilter.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/ChannelToGrayscale.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/ChannelToGrayscale.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/CopyTexture.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/CopyTexture.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/DrawTextureArraySlice.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/DrawTextureArraySlice.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/GeometricalHeightmapRenderer.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/GeometricalHeightmapRenderer.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/HeightmapConverterEncodeRG.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/HeightmapConverterEncodeRG.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/HeightMapDecodeGrayscale.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/HeightMapDecodeGrayscale.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/InteractiveGrassVectorField.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/InteractiveGrassVectorField.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SolidColor.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SolidColor.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SubDivisionMap.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SubDivisionMap.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SubDivisionVisualizer.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/SubDivisionVisualizer.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/UnlitChannelMask.shader
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/UnlitChannelMask.shader.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/UtilitiesCommon.cginc
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Shaders/Internal/Utilities/UtilitiesCommon.cginc.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Textures.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Textures/PerlinNoise.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Runtime/Textures/PerlinNoise.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Leaves 1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Leaves 1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Leaves 2.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Leaves 2.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 2.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 2.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 3.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Trunk 3.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Wood 1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Materials/Wood 1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Models.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Models/Sample Set.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Models/Sample Set.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Fir Tree 5.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Fir Tree 5.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Fir Tree 6.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Fir Tree 6.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Jungle Tree 8.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Jungle Tree 8.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Large Jungle Tree 3.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Large Jungle Tree 3.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Stump 1.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prefabs/Stump 1.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prototypes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prototypes/TreePrefabs_DistantLands.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prototypes/TreePrefabs_DistantLands.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prototypes/Trees_DistantLands.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Distant Lands/Prototypes/Trees_DistantLands.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Cubemaps.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Cubemaps/Polaris_SkyCubemap_0.cubemap
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Cubemaps/Polaris_SkyCubemap_0.cubemap.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Cubemaps/Polaris_SkyCubemap_1.cubemap
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Cubemaps/Polaris_SkyCubemap_1.cubemap.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain00.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain00.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain00_RAW.r16
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain00_RAW.r16.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain01.png
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain01.png.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain01_RAW.raw
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Heightmaps/Mountain01_RAW.raw.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/AutumnTree1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/AutumnTree1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/AutumnTree2.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/AutumnTree2.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/BlockyTree.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/BlockyTree.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Cactus.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Cactus.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/ClearSky.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/ClearSky.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Cursor.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Cursor.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/DesertDust.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/DesertDust.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/DesertSky.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/DesertSky.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Dust.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Dust.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GlowTreasure.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GlowTreasure.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GodRay.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GodRay.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Grass.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Grass.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Grass2.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Grass2.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GroundParticle.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/GroundParticle.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/IceLayer.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/IceLayer.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/NightSky.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/NightSky.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/OldTree.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/OldTree.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/OldTreeLeavesParticle.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/OldTreeLeavesParticle.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/PineTree.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/PineTree.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Rock.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Rock.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Rock1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Rock1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Skeleton.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Skeleton.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Snowman.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Snowman.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SnowParticle.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SnowParticle.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SpringTree1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SpringTree1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SunnySky.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/SunnySky.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Water.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/Water.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/WinterBranch.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/WinterBranch.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/WinterPineTree.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Materials/WinterPineTree.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/autumn-trees.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/autumn-trees.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/BlockyTree.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/BlockyTree.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/cactus.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/cactus.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/grass.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/grass.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_01.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_01.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_02.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_02.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_03.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_03.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_04.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_04.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_05.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_05.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_06.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/LP_S-Rock_06.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/Materials/No Name.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/Materials/No Name.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/old-tree.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/old-tree.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/pinetree.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/pinetree.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/Pinetrees.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/Pinetrees.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/pyramid.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/pyramid.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/rock.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/rock.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/skeleton.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/skeleton.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/snowman.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/snowman.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/winter-branch.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Models/winter-branch.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree1.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree1.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree2.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree2.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree3.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/AutumnTree3.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Cactus.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Cactus.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Dead.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Dead.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Dead_Break.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Dead_Break.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/GodRay.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/GodRay.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Grass.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Grass.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Materials/No Name.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Materials/No Name.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/OldTree.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/OldTree.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/PainterCursor.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/PainterCursor.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_00.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_00.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_00_Bevel.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_00_Bevel.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_01.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_01.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_01_Bevel.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_01_Bevel.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_02.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_02.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_02_Bevel.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pine_02_Bevel.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pinetree.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Pinetree.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock1.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock1.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock2.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock2.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock3.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Rock3.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Skeleton.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Skeleton.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Snowman.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/Snowman.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/SpringTree1.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/SpringTree1.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/WinterBranch.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/WinterBranch.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/WinterPintree.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prefabs/WinterPintree.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleGrasses.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleGrasses.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SamplePineTrees.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SamplePineTrees.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleRocks.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleRocks.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleSplats.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleSplats.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleTrees.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Prototypes/SampleTrees.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00.unity
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00.unity.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/Generated_TerrainData_e3ea99f6-86fa-4e43-a543-16d7614691c1.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/Generated_TerrainData_e3ea99f6-86fa-4e43-a543-16d7614691c1.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/GeneratedFoliage_e3ea99f6-86fa-4e43-a543-16d7614691c1_636940311945028451.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/GeneratedFoliage_e3ea99f6-86fa-4e43-a543-16d7614691c1_636940311945028451.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/PPP.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/PPP.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaGrasses.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaGrasses.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaSplats.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaSplats.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaTrees.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/RiverDeltaTrees.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/TerrainData_e3ea99f6-86fa-4e43-a543-16d7614691c1.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/TerrainData_e3ea99f6-86fa-4e43-a543-16d7614691c1.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/TerrainMaterial_e3ea99f6-86fa-4e43-a543-16d7614691c1.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_00/TerrainMaterial_e3ea99f6-86fa-4e43-a543-16d7614691c1.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01.unity
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01.unity.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/DesertGrasses.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/DesertGrasses.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/Generated_TerrainData_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/Generated_TerrainData_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/GeneratedFoliage_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8_636940312687130148.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/GeneratedFoliage_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8_636940312687130148.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/PostProcessingVolume Profile.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/PostProcessingVolume Profile.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/TerrainData_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/TerrainData_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/TerrainMaterial_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_01/TerrainMaterial_db2fe2f6-5a6e-46f9-8d44-8f9eba0fe7b8.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02.unity
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02.unity.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/Generated_TerrainData_5a9a3998-bbdc-4702-ae34-4ce6765fe439.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/Generated_TerrainData_5a9a3998-bbdc-4702-ae34-4ce6765fe439.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/GeneratedFoliage_5a9a3998-bbdc-4702-ae34-4ce6765fe439_636940314815677560.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/GeneratedFoliage_5a9a3998-bbdc-4702-ae34-4ce6765fe439_636940314815677560.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldGrasses.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldGrasses.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldSplats.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldSplats.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldTrees.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/LavenderFieldTrees.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/TerrainData_5a9a3998-bbdc-4702-ae34-4ce6765fe439.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/TerrainData_5a9a3998-bbdc-4702-ae34-4ce6765fe439.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/TerrainMaterial_5a9a3998-bbdc-4702-ae34-4ce6765fe439.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_02/TerrainMaterial_5a9a3998-bbdc-4702-ae34-4ce6765fe439.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting.unity
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting.unity.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/GeneratedFoliage_9a0c599e-5700-4044-8191-4e0dad88c5fe_636961357344924677.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/GeneratedFoliage_9a0c599e-5700-4044-8191-4e0dad88c5fe_636961357344924677.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/GeneratedGeometry_9a0c599e-5700-4044-8191-4e0dad88c5fe_636961357343903518.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/GeneratedGeometry_9a0c599e-5700-4044-8191-4e0dad88c5fe_636961357343903518.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/TerrainData_9a0c599e-5700-4044-8191-4e0dad88c5fe.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/TerrainData_9a0c599e-5700-4044-8191-4e0dad88c5fe.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/TerrainMaterial_9a0c599e-5700-4044-8191-4e0dad88c5fe.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scenes/Demo_RuntimePainting/TerrainMaterial_9a0c599e-5700-4044-8191-4e0dad88c5fe.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GFpsCounter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GFpsCounter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GRuntimeTexturePainter.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GRuntimeTexturePainter.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GTakeScreenshot.cs
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Scripts/GTakeScreenshot.cs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/BlockyTree.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/BlockyTree.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Flare.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Flare.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GodRay.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GodRay.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass2.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Grass2.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades_01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades_01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades_02.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/GrassBlades_02.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Lavender.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Lavender.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/LensDirt.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/LensDirt.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer 1.terrainlayer
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer 1.terrainlayer.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer 2.terrainlayer
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer 2.terrainlayer.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer.terrainlayer
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/NewLayer.terrainlayer.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PerlinNoise.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PerlinNoise.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PineTree.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PineTree.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PineTreeDiffuse.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/PineTreeDiffuse.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/QuadWireframe.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/QuadWireframe.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SampleNoise.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SampleNoise.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SampleSeamlessNoise.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SampleSeamlessNoise.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Sand.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Sand.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Snowman.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Snowman.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SnowParticle.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/SnowParticle.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Soil01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Soil01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Stone.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Stone.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Stone01.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/Stone01.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture1.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture1.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture2.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture2.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture3.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture3.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture_00.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/TreeTexture_00.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WhiteFlower.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WhiteFlower.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WhiteSquare.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WhiteSquare.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WinterPineTree.psd
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Pinwheel Studio/Textures/WinterPineTree.psd.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Third Parties Notice.txt
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Third Parties Notice.txt.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Materials.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Materials/material_polytope_foliage.mat
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Materials/material_polytope_foliage.mat.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_campervan.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_campervan.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_teepee02.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_teepee02.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_water_tower.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_water_tower.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_wind_turbine.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_wind_turbine.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_windmill.fbx
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Models/model_polytope_windmill.fbx.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_campervan.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_campervan.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_teepee02.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_teepee02.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_water_tower.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_water_tower.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_wind_turbine.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_wind_turbine.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_windmill.prefab
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prefabs/prefab_polytope_windmill.prefab.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prototypes.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prototypes/EnvironmentStructures_TotalGameAssets.asset
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Prototypes/EnvironmentStructures_TotalGameAssets.asset.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Textures.meta
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Textures/texture_colour_palette.tga
+Assets/Assets/Polaris - Low Poly Ecosystem/Polaris V2 - Low Poly Terrain Engine/Samples/Total Game Assets/Textures/texture_colour_palette.tga.meta
