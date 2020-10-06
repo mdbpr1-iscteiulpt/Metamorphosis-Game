@@ -66,6 +66,7 @@ public class UnitSelection : MonoBehaviour
             if(screenPos.x > min.x && screenPos.x < max.x && screenPos.y > min.y && screenPos.y < max.y)
             {
                 selectedUnits.Add(unit);
+                unit.GetComponent<Movement>().selectUnit(true);
                 unit.toggleSelectionVisual(true);
             }
         }
@@ -92,6 +93,7 @@ public class UnitSelection : MonoBehaviour
         foreach(Unit unit in selectedUnits)
         {
             unit.toggleSelectionVisual(selected);
+            unit.GetComponent<Movement>().selectUnit(selected);
         }
     }
 }
