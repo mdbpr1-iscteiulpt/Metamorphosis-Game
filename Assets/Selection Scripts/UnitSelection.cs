@@ -50,6 +50,53 @@ public class UnitSelection : MonoBehaviour
         {
             updateSelectionBox(Input.mousePosition);
         }
+        //player action for movement after confirmation check
+        if(Input.GetMouseButton(1)&&checkIfAnyCanMove())
+        {
+            Ray ray = cam.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit;
+
+            if (Physics.Raycast(ray, out hit))
+            {
+                List<Vector3> targetPositionList = GetPositionListAround(hit.point, new float[] { 10f, 20f, 30f }, new int[] { 5, 10, 20 });
+                int targetPositionListIndex = 0;
+                foreach (Unit unit in selectedUnits)
+                {
+                    unit.GetComponent<Movement>().movementDestination(targetPositionList[targetPositionListIndex]);
+                    targetPositionListIndex = (targetPositionListIndex + 1) % targetPositionList.Count;
+                }
+            }
+        }
+    }
+
+
+    private List<Vector3> GetPositionListAround(Vector3 startPosition, float[] ringDistanceArray, int[] ringPositionCountArray)
+    {
+        List<Vector3> positionList = new List<Vector3>();
+        positionList.Add(startPosition);
+        for (int i = 0; i < ringDistanceArray.Length; i++)
+        {
+            positionList.AddRange(GetPositionListAround(startPosition, ringDistanceArray[i], ringPositionCountArray[i]));
+        }
+        return positionList;
+    }
+
+    private List<Vector3> GetPositionListAround(Vector3 startPosition, float distance, int positionCount)
+    {
+        List<Vector3> positionList = new List<Vector3>();
+        for (int i = 0; i < positionCount; i++)
+        {
+            float angle = i * (360f / positionCount);
+            Vector3 dir = ApplyRotationToVector(new Vector3(1, 0), angle);
+            Vector3 position = startPosition + dir * distance;
+            positionList.Add(position);
+        }
+        return positionList;
+    }
+
+    private Vector3 ApplyRotationToVector(Vector3 vec, float angle)
+    {
+        return Quaternion.Euler(0, 0, angle) * vec;
     }
 
     void releaseSelectionBox()
@@ -95,5 +142,15 @@ public class UnitSelection : MonoBehaviour
             unit.toggleSelectionVisual(selected);
             unit.GetComponent<Movement>().selectUnit(selected);
         }
+    }
+
+
+    private bool checkIfAnyCanMove()
+    {
+        foreach (Unit units in selectedUnits)
+        {
+            return units.gameObject.GetComponent<Movement>();
+        }
+        return false;
     }
 }

@@ -15,6 +15,11 @@ public class Movement : MonoBehaviour
     {
         selected = state;
     }
+    
+    public void movementDestination(Vector3 point)
+    {
+        agent.SetDestination(point);
+    }
 
     // Update is called once per frame
     void Update()
@@ -31,12 +36,7 @@ public class Movement : MonoBehaviour
         agent.speed = MoveSpeed;
         if (Input.GetMouseButtonDown(1)&&selected)
         {
-            Ray ray = cam.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
 
-            if(Physics.Raycast(ray, out hit)){
-                agent.SetDestination(hit.point);
-            }
         }
     }
 }

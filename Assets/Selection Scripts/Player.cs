@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,9 +13,13 @@ public class Player : MonoBehaviour
         
     }
 
+    private void moveAction()
+    {
+
+    }
+
     // Update is called once per frame
     void Update()
     {
-        
     }
 }
